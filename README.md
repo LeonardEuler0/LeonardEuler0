@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# 👋 Salut, moi c'est Leonard !  
+# 👋 Salut, moi c'est Mouhamed !  
 
 - 🔭 Je travaille actuellement sur un projet de site web interactif.  
 - 🌱 J'apprends actuellement R et Python.  
